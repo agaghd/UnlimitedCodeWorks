@@ -1,4 +1,4 @@
-package com.kingnew.unlimitedcodeworks;
+package com.kingnew.unlimitedcodeworks.view;
 
 import android.content.Context;
 import android.view.View;

@@ -1,4 +1,4 @@
-package com.kingnew.unlimitedcodeworks;
+package com.kingnew.unlimitedcodeworks.utils;
 
 import android.app.Activity;
 import android.content.Context;
